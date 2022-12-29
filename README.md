@@ -1,4 +1,4 @@
-# Random-Forest-Practice
+# Car auction Practice
 Scenario: You are provided with a car auction dataset. Your goal is to (1) Build prediction model using Random Forest, and (2) Explain 
 the effects of the most important features on predictions (using global and local analysis). You are advised to follow 
 the following procedures:
